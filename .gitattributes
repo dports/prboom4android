@@ -240,7 +240,6 @@ src/android/game/prboom/DoomActivity.java -text
 src/android/game/prboom/VirtualDPad.java -text
 src/doom/audio/AudioClip.java -text
 src/doom/audio/AudioManager2.java -text
-src/doom/audio/AudioMgr.java -text
 src/doom/util/DialogTool.java -text
 src/doom/util/DoomTools.java -text
 src/doom/util/GameFileDownloader.java -text
