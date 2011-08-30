@@ -201,6 +201,8 @@ native/prboom/z_bmalloc.h -text
 native/prboom/z_zone.c -text
 native/prboom/z_zone.h -text
 res/drawable/blank.png -text
+res/drawable/change_weapon.png -text
+res/drawable/change_weapon_r.png -text
 res/drawable/cleanup.png -text
 res/drawable/doom.jpg -text
 res/drawable/down.png -text
