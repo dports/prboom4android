@@ -240,7 +240,7 @@ screenshots/doomII_in_game.png -text
 screenshots/doomII_in_game2.png -text
 screenshots/doomII_title_screen.png -text
 screenshots/prboom_main_screen.png -text
-src/android/game/prboom/DoomActivity.java -text
+src/android/game/prboom/PrBoomActivity.java -text
 src/android/game/prboom/VirtualDPad.java -text
 src/doom/audio/AudioClip.java -text
 src/doom/audio/AudioManager.java -text
