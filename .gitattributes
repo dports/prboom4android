@@ -200,6 +200,260 @@ native/prboom/z_bmalloc.c -text
 native/prboom/z_bmalloc.h -text
 native/prboom/z_zone.c -text
 native/prboom/z_zone.h -text
+prboom4android/.classpath -text svneol=unset#text/plain
+prboom4android/.project -text svneol=unset#text/plain
+prboom4android/AndroidManifest.xml -text svneol=unset#text/plain
+prboom4android/assets/libdoom_jni.so.zip -text
+prboom4android/assets/prboom.zip -text
+prboom4android/default.properties -text svneol=unset#text/plain
+prboom4android/native/bin/libdoom_jni.so -text
+prboom4android/native/prboom.zip -text
+prboom4android/native/prboom/Makefile -text
+prboom4android/native/prboom/Makefile.am -text
+prboom4android/native/prboom/Makefile.in -text
+prboom4android/native/prboom/POSIX/Makefile -text
+prboom4android/native/prboom/POSIX/Makefile.am -text
+prboom4android/native/prboom/POSIX/Makefile.in -text
+prboom4android/native/prboom/POSIX/i_system.c -text svneol=unset#text/plain
+prboom4android/native/prboom/SDL/Makefile -text
+prboom4android/native/prboom/SDL/Makefile.am -text
+prboom4android/native/prboom/SDL/Makefile.in -text
+prboom4android/native/prboom/SDL/SDL_win32_main.c -text svneol=unset#text/plain
+prboom4android/native/prboom/SDL/i_joy.c -text svneol=unset#text/plain
+prboom4android/native/prboom/SDL/i_main.c -text svneol=unset#text/plain
+prboom4android/native/prboom/SDL/i_network.c -text svneol=unset#text/plain
+prboom4android/native/prboom/SDL/i_sound.c -text svneol=unset#text/plain
+prboom4android/native/prboom/SDL/i_sshot.c -text svneol=unset#text/plain
+prboom4android/native/prboom/SDL/i_system.c -text svneol=unset#text/plain
+prboom4android/native/prboom/SDL/i_video.c -text svneol=unset#text/plain
+prboom4android/native/prboom/am_map.c -text svneol=unset#text/plain
+prboom4android/native/prboom/am_map.h -text svneol=unset#text/plain
+prboom4android/native/prboom/autom4te.cache/output.0 -text
+prboom4android/native/prboom/autom4te.cache/requests -text
+prboom4android/native/prboom/autom4te.cache/traces.0 -text
+prboom4android/native/prboom/config.h -text svneol=unset#text/plain
+prboom4android/native/prboom/config.h.in -text
+prboom4android/native/prboom/configure -text
+prboom4android/native/prboom/configure.ac -text
+prboom4android/native/prboom/d_client.c -text svneol=unset#text/plain
+prboom4android/native/prboom/d_deh.c -text svneol=unset#text/plain
+prboom4android/native/prboom/d_deh.h -text svneol=unset#text/plain
+prboom4android/native/prboom/d_englsh.h -text svneol=unset#text/plain
+prboom4android/native/prboom/d_event.h -text svneol=unset#text/plain
+prboom4android/native/prboom/d_items.c -text svneol=unset#text/plain
+prboom4android/native/prboom/d_items.h -text svneol=unset#text/plain
+prboom4android/native/prboom/d_main.c -text svneol=unset#text/plain
+prboom4android/native/prboom/d_main.h -text svneol=unset#text/plain
+prboom4android/native/prboom/d_net.h -text svneol=unset#text/plain
+prboom4android/native/prboom/d_player.h -text svneol=unset#text/plain
+prboom4android/native/prboom/d_server.c -text svneol=unset#text/plain
+prboom4android/native/prboom/d_think.h -text svneol=unset#text/plain
+prboom4android/native/prboom/d_ticcmd.h -text svneol=unset#text/plain
+prboom4android/native/prboom/doomdata.h -text svneol=unset#text/plain
+prboom4android/native/prboom/doomdef.c -text svneol=unset#text/plain
+prboom4android/native/prboom/doomdef.h -text svneol=unset#text/plain
+prboom4android/native/prboom/doomstat.c -text svneol=unset#text/plain
+prboom4android/native/prboom/doomstat.h -text svneol=unset#text/plain
+prboom4android/native/prboom/doomtype.h -text svneol=unset#text/plain
+prboom4android/native/prboom/dstrings.c -text svneol=unset#text/plain
+prboom4android/native/prboom/dstrings.h -text svneol=unset#text/plain
+prboom4android/native/prboom/f_finale.c -text svneol=unset#text/plain
+prboom4android/native/prboom/f_finale.h -text svneol=unset#text/plain
+prboom4android/native/prboom/f_wipe.c -text svneol=unset#text/plain
+prboom4android/native/prboom/f_wipe.h -text svneol=unset#text/plain
+prboom4android/native/prboom/g_game.c -text svneol=unset#text/plain
+prboom4android/native/prboom/g_game.h -text svneol=unset#text/plain
+prboom4android/native/prboom/gl_intern.h -text svneol=unset#text/plain
+prboom4android/native/prboom/gl_main.c -text svneol=unset#text/plain
+prboom4android/native/prboom/gl_struct.h -text svneol=unset#text/plain
+prboom4android/native/prboom/gl_texture.c -text svneol=unset#text/plain
+prboom4android/native/prboom/hu_lib.c -text svneol=unset#text/plain
+prboom4android/native/prboom/hu_lib.h -text svneol=unset#text/plain
+prboom4android/native/prboom/hu_stuff.c -text svneol=unset#text/plain
+prboom4android/native/prboom/hu_stuff.h -text svneol=unset#text/plain
+prboom4android/native/prboom/i_joy.h -text svneol=unset#text/plain
+prboom4android/native/prboom/i_main.c -text svneol=unset#text/plain
+prboom4android/native/prboom/i_main.h -text svneol=unset#text/plain
+prboom4android/native/prboom/i_network.c -text svneol=unset#text/plain
+prboom4android/native/prboom/i_network.h -text svneol=unset#text/plain
+prboom4android/native/prboom/i_sound.c -text svneol=unset#text/plain
+prboom4android/native/prboom/i_sound.h -text svneol=unset#text/plain
+prboom4android/native/prboom/i_system.c -text svneol=unset#text/plain
+prboom4android/native/prboom/i_system.h -text svneol=unset#text/plain
+prboom4android/native/prboom/i_video.c -text svneol=unset#text/plain
+prboom4android/native/prboom/i_video.h -text svneol=unset#text/plain
+prboom4android/native/prboom/i_video_jni.c -text svneol=unset#text/plain
+prboom4android/native/prboom/include/doom_jni_Natives.h -text svneol=unset#text/plain
+prboom4android/native/prboom/include/doom_jni_Natives_EventListener.h -text svneol=unset#text/plain
+prboom4android/native/prboom/include/jni_doom.h -text svneol=unset#text/plain
+prboom4android/native/prboom/info.c -text svneol=unset#text/plain
+prboom4android/native/prboom/info.h -text svneol=unset#text/plain
+prboom4android/native/prboom/jni_doom.c -text svneol=unset#text/plain
+prboom4android/native/prboom/lprintf.c -text svneol=unset#text/plain
+prboom4android/native/prboom/lprintf.h -text svneol=unset#text/plain
+prboom4android/native/prboom/m_argv.c -text svneol=unset#text/plain
+prboom4android/native/prboom/m_argv.h -text svneol=unset#text/plain
+prboom4android/native/prboom/m_bbox.c -text svneol=unset#text/plain
+prboom4android/native/prboom/m_bbox.h -text svneol=unset#text/plain
+prboom4android/native/prboom/m_cheat.c -text svneol=unset#text/plain
+prboom4android/native/prboom/m_cheat.h -text svneol=unset#text/plain
+prboom4android/native/prboom/m_fixed.h -text svneol=unset#text/plain
+prboom4android/native/prboom/m_menu.c -text svneol=unset#text/plain
+prboom4android/native/prboom/m_menu.h -text svneol=unset#text/plain
+prboom4android/native/prboom/m_misc.c -text svneol=unset#text/plain
+prboom4android/native/prboom/m_misc.h -text svneol=unset#text/plain
+prboom4android/native/prboom/m_random.c -text svneol=unset#text/plain
+prboom4android/native/prboom/m_random.h -text svneol=unset#text/plain
+prboom4android/native/prboom/m_swap.h -text svneol=unset#text/plain
+prboom4android/native/prboom/md5.c -text svneol=unset#text/plain
+prboom4android/native/prboom/md5.h -text svneol=unset#text/plain
+prboom4android/native/prboom/mmus2mid.c -text svneol=unset#text/plain
+prboom4android/native/prboom/mmus2mid.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_ceilng.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_checksum.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_checksum.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_doors.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_enemy.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_enemy.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_floor.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_genlin.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_inter.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_inter.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_lights.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_map.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_map.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_maputl.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_maputl.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_mobj.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_mobj.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_plats.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_pspr.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_pspr.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_saveg.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_saveg.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_setup.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_setup.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_sight.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_spec.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_spec.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_switch.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_telept.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_tick.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_tick.h -text svneol=unset#text/plain
+prboom4android/native/prboom/p_user.c -text svneol=unset#text/plain
+prboom4android/native/prboom/p_user.h -text svneol=unset#text/plain
+prboom4android/native/prboom/prboom -text
+prboom4android/native/prboom/prboom-game-server -text
+prboom4android/native/prboom/protocol.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_bsp.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_bsp.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_data.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_data.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_defs.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_demo.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_demo.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_draw.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_draw.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_drawcolpipeline.inl -text
+prboom4android/native/prboom/r_drawcolumn.inl -text
+prboom4android/native/prboom/r_drawflush.inl -text
+prboom4android/native/prboom/r_drawspan.inl -text
+prboom4android/native/prboom/r_filter.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_filter.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_fps.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_fps.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_main.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_main.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_patch.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_patch.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_plane.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_plane.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_segs.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_segs.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_sky.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_sky.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_state.h -text svneol=unset#text/plain
+prboom4android/native/prboom/r_things.c -text svneol=unset#text/plain
+prboom4android/native/prboom/r_things.h -text svneol=unset#text/plain
+prboom4android/native/prboom/s_sound.c -text svneol=unset#text/plain
+prboom4android/native/prboom/s_sound.h -text svneol=unset#text/plain
+prboom4android/native/prboom/sounds.c -text svneol=unset#text/plain
+prboom4android/native/prboom/sounds.h -text svneol=unset#text/plain
+prboom4android/native/prboom/st_lib.c -text svneol=unset#text/plain
+prboom4android/native/prboom/st_lib.h -text svneol=unset#text/plain
+prboom4android/native/prboom/st_stuff.c -text svneol=unset#text/plain
+prboom4android/native/prboom/st_stuff.h -text svneol=unset#text/plain
+prboom4android/native/prboom/tables.c -text svneol=unset#text/plain
+prboom4android/native/prboom/tables.h -text svneol=unset#text/plain
+prboom4android/native/prboom/tic -text
+prboom4android/native/prboom/v_video.c -text svneol=unset#text/plain
+prboom4android/native/prboom/v_video.h -text svneol=unset#text/plain
+prboom4android/native/prboom/version.c -text svneol=unset#text/plain
+prboom4android/native/prboom/version.h -text svneol=unset#text/plain
+prboom4android/native/prboom/w_memcache.c -text svneol=unset#text/plain
+prboom4android/native/prboom/w_mmap.c -text svneol=unset#text/plain
+prboom4android/native/prboom/w_wad.c -text svneol=unset#text/plain
+prboom4android/native/prboom/w_wad.h -text svneol=unset#text/plain
+prboom4android/native/prboom/wi_stuff.c -text svneol=unset#text/plain
+prboom4android/native/prboom/wi_stuff.h -text svneol=unset#text/plain
+prboom4android/native/prboom/z_bmalloc.c -text svneol=unset#text/plain
+prboom4android/native/prboom/z_bmalloc.h -text svneol=unset#text/plain
+prboom4android/native/prboom/z_zone.c -text svneol=unset#text/plain
+prboom4android/native/prboom/z_zone.h -text svneol=unset#text/plain
+prboom4android/res/drawable-hdpi/doom.jpg -text
+prboom4android/res/drawable-hdpi/dpadindicator_center.png -text
+prboom4android/res/drawable-hdpi/dpadindicator_down.png -text
+prboom4android/res/drawable-hdpi/dpadindicator_downleft.png -text
+prboom4android/res/drawable-hdpi/dpadindicator_downright.png -text
+prboom4android/res/drawable-hdpi/dpadindicator_left.png -text
+prboom4android/res/drawable-hdpi/dpadindicator_off.png -text
+prboom4android/res/drawable-hdpi/dpadindicator_right.png -text
+prboom4android/res/drawable-hdpi/dpadindicator_up.png -text
+prboom4android/res/drawable-hdpi/dpadindicator_upleft.png -text
+prboom4android/res/drawable-hdpi/dpadindicator_upright.png -text
+prboom4android/res/drawable-hdpi/icon.png -text
+prboom4android/res/drawable-hdpi/jump.png -text
+prboom4android/res/drawable-hdpi/map.png -text
+prboom4android/res/drawable-hdpi/no.png -text
+prboom4android/res/drawable-hdpi/open.png -text
+prboom4android/res/drawable-hdpi/vstick.png -text
+prboom4android/res/drawable-hdpi/vstick_lr.png -text
+prboom4android/res/drawable-hdpi/weapon_1.png -text
+prboom4android/res/drawable-hdpi/weapon_2.png -text
+prboom4android/res/drawable-hdpi/weapon_3.png -text
+prboom4android/res/drawable-hdpi/weapon_4.png -text
+prboom4android/res/drawable-hdpi/weapon_5.png -text
+prboom4android/res/drawable-hdpi/weapon_6.png -text
+prboom4android/res/drawable-hdpi/weapon_7.png -text
+prboom4android/res/drawable-hdpi/weapon_8.png -text
+prboom4android/res/drawable-hdpi/weapon_9.png -text
+prboom4android/res/drawable-hdpi/yes.png -text
+prboom4android/res/drawable-ldpi/icon.png -text
+prboom4android/res/drawable-mdpi/icon.png -text
+prboom4android/res/layout/download.xml -text svneol=unset#text/plain
+prboom4android/res/layout/main_screen.xml -text svneol=unset#text/plain
+prboom4android/res/layout/options.xml -text svneol=unset#text/plain
+prboom4android/res/raw/d1intro.ogg -text
+prboom4android/res/values/arrays.xml -text svneol=unset#text/plain
+prboom4android/res/values/strings.xml -text svneol=unset#text/plain
+prboom4android/screenshots/doomII_in_game.png -text
+prboom4android/screenshots/doomII_in_game2.png -text
+prboom4android/screenshots/doomII_title_screen.png -text
+prboom4android/screenshots/doomI_title_screen.png -text
+prboom4android/screenshots/prboom_download_wad.png -text
+prboom4android/screenshots/prboom_downloading_sounds.png -text
+prboom4android/screenshots/prboom_main_screen.png -text
+prboom4android/screenshots/prboom_wad_selection.png -text
+prboom4android/src/android/game/prboom/PrBoomActivity.java -text svneol=unset#text/plain
+prboom4android/src/android/game/prboom/VirtualDPad.java -text svneol=unset#text/plain
+prboom4android/src/doom/audio/AudioClip.java -text svneol=unset#text/plain
+prboom4android/src/doom/audio/AudioManager.java -text svneol=unset#text/plain
+prboom4android/src/doom/util/DialogTool.java -text svneol=unset#text/plain
+prboom4android/src/doom/util/DoomTools.java -text svneol=unset#text/plain
+prboom4android/src/doom/util/GameFileDownloader.java -text svneol=unset#text/plain
+prboom4android/src/doom/util/LibraryLoader.java -text svneol=unset#text/plain
+prboom4android/src/doom/util/Natives.java -text svneol=unset#text/plain
+prboom4android/src/doom/util/WebDownload.java -text svneol=unset#text/plain
 res/drawable-hdpi/doom.jpg -text
 res/drawable-hdpi/dpadindicator_center.png -text
 res/drawable-hdpi/dpadindicator_down.png -text
