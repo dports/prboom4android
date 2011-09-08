@@ -205,6 +205,7 @@ prboom4android/.project -text svneol=unset#text/plain
 prboom4android/AndroidManifest.xml -text svneol=unset#text/plain
 prboom4android/assets/libdoom_jni.so.zip -text
 prboom4android/assets/prboom.zip -text
+prboom4android/changelog.txt -text svneol=unset#text/plain
 prboom4android/default.properties -text svneol=unset#text/plain
 prboom4android/keys -text
 prboom4android/native/bin/libdoom_jni.so -text
