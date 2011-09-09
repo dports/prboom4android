@@ -203,6 +203,7 @@ native/prboom/z_zone.h -text
 prboom4android/.classpath -text svneol=unset#text/plain
 prboom4android/.project -text svneol=unset#text/plain
 prboom4android/AndroidManifest.xml -text svneol=unset#text/plain
+prboom4android/assets/fonts/DooM.ttf -text
 prboom4android/assets/libdoom_jni.so.zip -text
 prboom4android/assets/prboom.zip -text
 prboom4android/changelog.txt -text svneol=unset#text/plain
@@ -402,7 +403,16 @@ prboom4android/native/prboom/z_bmalloc.c -text svneol=unset#text/plain
 prboom4android/native/prboom/z_bmalloc.h -text svneol=unset#text/plain
 prboom4android/native/prboom/z_zone.c -text svneol=unset#text/plain
 prboom4android/native/prboom/z_zone.h -text svneol=unset#text/plain
+prboom4android/res/drawable-hdpi/custom_button.xml -text svneol=unset#text/plain
+prboom4android/res/drawable-hdpi/custom_spinner.xml -text svneol=unset#text/plain
 prboom4android/res/drawable-hdpi/doom.jpg -text
+prboom4android/res/drawable-hdpi/doom_button.9.png -text
+prboom4android/res/drawable-hdpi/doom_button_selected.9.png -text
+prboom4android/res/drawable-hdpi/doom_checkbox.xml -text svneol=unset#text/plain
+prboom4android/res/drawable-hdpi/doom_checked.png -text
+prboom4android/res/drawable-hdpi/doom_spinner.9.png -text
+prboom4android/res/drawable-hdpi/doom_spinner_selected.9.png -text
+prboom4android/res/drawable-hdpi/doom_unchecked.png -text
 prboom4android/res/drawable-hdpi/dpadindicator_center.png -text
 prboom4android/res/drawable-hdpi/dpadindicator_down.png -text
 prboom4android/res/drawable-hdpi/dpadindicator_downleft.png -text
