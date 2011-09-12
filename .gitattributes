@@ -404,15 +404,19 @@ prboom4android/native/prboom/z_bmalloc.h -text svneol=unset#text/plain
 prboom4android/native/prboom/z_zone.c -text svneol=unset#text/plain
 prboom4android/native/prboom/z_zone.h -text svneol=unset#text/plain
 prboom4android/res/drawable-hdpi/custom_button.xml -text svneol=unset#text/plain
+prboom4android/res/drawable-hdpi/custom_checkbox.xml -text svneol=unset#text/plain
 prboom4android/res/drawable-hdpi/custom_spinner.xml -text svneol=unset#text/plain
 prboom4android/res/drawable-hdpi/doom.jpg -text
 prboom4android/res/drawable-hdpi/doom_button.9.png -text
+prboom4android/res/drawable-hdpi/doom_button_disabled.9.png -text
 prboom4android/res/drawable-hdpi/doom_button_selected.9.png -text
-prboom4android/res/drawable-hdpi/doom_checkbox.xml -text svneol=unset#text/plain
 prboom4android/res/drawable-hdpi/doom_checked.png -text
+prboom4android/res/drawable-hdpi/doom_checked_disabled.png -text
 prboom4android/res/drawable-hdpi/doom_spinner.9.png -text
+prboom4android/res/drawable-hdpi/doom_spinner_disabled.9.png -text
 prboom4android/res/drawable-hdpi/doom_spinner_selected.9.png -text
 prboom4android/res/drawable-hdpi/doom_unchecked.png -text
+prboom4android/res/drawable-hdpi/doom_unchecked_disabled.png -text
 prboom4android/res/drawable-hdpi/dpadindicator_center.png -text
 prboom4android/res/drawable-hdpi/dpadindicator_down.png -text
 prboom4android/res/drawable-hdpi/dpadindicator_downleft.png -text
@@ -448,6 +452,8 @@ prboom4android/res/layout/options.xml -text svneol=unset#text/plain
 prboom4android/res/raw/d1intro.ogg -text
 prboom4android/res/values/arrays.xml -text svneol=unset#text/plain
 prboom4android/res/values/strings.xml -text svneol=unset#text/plain
+prboom4android/res/values/styles.xml -text svneol=unset#text/plain
+prboom4android/res/values/themes.xml -text svneol=unset#text/plain
 prboom4android/screenshots/doomII_in_game.png -text
 prboom4android/screenshots/doomII_in_game2.png -text
 prboom4android/screenshots/doomII_title_screen.png -text
