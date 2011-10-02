@@ -691,9 +691,6 @@ jni/prboom/z_zone.h -text
 libs/armeabi/gdb.setup -text
 libs/armeabi/gdbserver -text
 libs/armeabi/libprboom_jni.so -text
-prboom4android/.classpath -text svneol=unset#text/plain
-prboom4android/.cproject -text svneol=unset#text/plain
-prboom4android/.project -text svneol=unset#text/plain
 res/drawable-hdpi/custom_button.xml -text svneol=unset#text/plain
 res/drawable-hdpi/custom_checkbox.xml -text svneol=unset#text/plain
 res/drawable-hdpi/custom_spinner.xml -text svneol=unset#text/plain

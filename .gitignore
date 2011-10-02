@@ -2,5 +2,3 @@
 jni/sdl_net
 libs/armeabi/libSDL.so
 libs/armeabi/libSDL_net.so
-prboom4android/*.o
-prboom4android/obj
