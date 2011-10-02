@@ -1,8 +1,6 @@
 * text=auto !eol
 /.classpath -text
 /.project -text
-/AndroidManifest.xml -text
-/default.properties -text
 prboom4android/.classpath -text svneol=unset#text/plain
 prboom4android/.cproject -text svneol=unset#text/plain
 prboom4android/.project -text svneol=unset#text/plain
