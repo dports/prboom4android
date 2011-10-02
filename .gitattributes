@@ -8,6 +8,9 @@ assets/prboom.zip -text
 /changelog.txt -text svneol=unset#text/plain
 /default.properties -text svneol=unset#text/plain
 /keys -text
+libs/armeabi/gdb.setup -text
+libs/armeabi/gdbserver -text
+libs/armeabi/libprboom_jni.so -text
 prboom4android/.classpath -text svneol=unset#text/plain
 prboom4android/.cproject -text svneol=unset#text/plain
 prboom4android/.project -text svneol=unset#text/plain
@@ -691,29 +694,6 @@ prboom4android/jni/prboom/z_bmalloc.c -text
 prboom4android/jni/prboom/z_bmalloc.h -text
 prboom4android/jni/prboom/z_zone.c -text
 prboom4android/jni/prboom/z_zone.h -text
-prboom4android/libs/armeabi/gdb.setup -text
-prboom4android/libs/armeabi/gdbserver -text
-prboom4android/libs/armeabi/libprboom_jni.so -text
-prboom4android/screenshots/doomII_in_game.png -text
-prboom4android/screenshots/doomII_in_game2.png -text
-prboom4android/screenshots/doomII_in_game3.png -text
-prboom4android/screenshots/doomII_in_game4.png -text
-prboom4android/screenshots/doomII_title_screen.png -text
-prboom4android/screenshots/doomI_title_screen.png -text
-prboom4android/screenshots/prboom_download_wad.png -text
-prboom4android/screenshots/prboom_downloading_sounds.png -text
-prboom4android/screenshots/prboom_downloading_wad.png -text
-prboom4android/screenshots/prboom_main_screen.png -text
-prboom4android/screenshots/prboom_wad_selection.png -text
-prboom4android/src/android/game/prboom/PrBoomActivity.java -text svneol=unset#text/plain
-prboom4android/src/android/game/prboom/VirtualDPad.java -text svneol=unset#text/plain
-prboom4android/src/doom/audio/AudioClip.java -text svneol=unset#text/plain
-prboom4android/src/doom/audio/AudioManager.java -text svneol=unset#text/plain
-prboom4android/src/doom/util/DialogTool.java -text svneol=unset#text/plain
-prboom4android/src/doom/util/DoomTools.java -text svneol=unset#text/plain
-prboom4android/src/doom/util/GameFileDownloader.java -text svneol=unset#text/plain
-prboom4android/src/doom/util/Natives.java -text svneol=unset#text/plain
-prboom4android/src/doom/util/WebDownload.java -text svneol=unset#text/plain
 res/drawable-hdpi/custom_button.xml -text svneol=unset#text/plain
 res/drawable-hdpi/custom_checkbox.xml -text svneol=unset#text/plain
 res/drawable-hdpi/custom_spinner.xml -text svneol=unset#text/plain
@@ -765,3 +745,23 @@ res/values/arrays.xml -text svneol=unset#text/plain
 res/values/strings.xml -text svneol=unset#text/plain
 res/values/styles.xml -text svneol=unset#text/plain
 res/values/themes.xml -text svneol=unset#text/plain
+screenshots/doomII_in_game.png -text
+screenshots/doomII_in_game2.png -text
+screenshots/doomII_in_game3.png -text
+screenshots/doomII_in_game4.png -text
+screenshots/doomII_title_screen.png -text
+screenshots/doomI_title_screen.png -text
+screenshots/prboom_download_wad.png -text
+screenshots/prboom_downloading_sounds.png -text
+screenshots/prboom_downloading_wad.png -text
+screenshots/prboom_main_screen.png -text
+screenshots/prboom_wad_selection.png -text
+src/android/game/prboom/PrBoomActivity.java -text svneol=unset#text/plain
+src/android/game/prboom/VirtualDPad.java -text svneol=unset#text/plain
+src/doom/audio/AudioClip.java -text svneol=unset#text/plain
+src/doom/audio/AudioManager.java -text svneol=unset#text/plain
+src/doom/util/DialogTool.java -text svneol=unset#text/plain
+src/doom/util/DoomTools.java -text svneol=unset#text/plain
+src/doom/util/GameFileDownloader.java -text svneol=unset#text/plain
+src/doom/util/Natives.java -text svneol=unset#text/plain
+src/doom/util/WebDownload.java -text svneol=unset#text/plain

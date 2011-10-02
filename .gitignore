@@ -1,6 +1,6 @@
 /gen
+libs/armeabi/libSDL.so
+libs/armeabi/libSDL_net.so
 prboom4android/*.o
 prboom4android/jni/sdl_net
-prboom4android/libs/armeabi/libSDL.so
-prboom4android/libs/armeabi/libSDL_net.so
 prboom4android/obj
