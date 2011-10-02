@@ -694,57 +694,6 @@ prboom4android/jni/prboom/z_zone.h -text
 prboom4android/libs/armeabi/gdb.setup -text
 prboom4android/libs/armeabi/gdbserver -text
 prboom4android/libs/armeabi/libprboom_jni.so -text
-prboom4android/res/drawable-hdpi/custom_button.xml -text svneol=unset#text/plain
-prboom4android/res/drawable-hdpi/custom_checkbox.xml -text svneol=unset#text/plain
-prboom4android/res/drawable-hdpi/custom_spinner.xml -text svneol=unset#text/plain
-prboom4android/res/drawable-hdpi/doom.jpg -text
-prboom4android/res/drawable-hdpi/doom_button.9.png -text
-prboom4android/res/drawable-hdpi/doom_button_disabled.9.png -text
-prboom4android/res/drawable-hdpi/doom_button_selected.9.png -text
-prboom4android/res/drawable-hdpi/doom_checked.png -text
-prboom4android/res/drawable-hdpi/doom_checked_disabled.png -text
-prboom4android/res/drawable-hdpi/doom_spinner.9.png -text
-prboom4android/res/drawable-hdpi/doom_spinner_disabled.9.png -text
-prboom4android/res/drawable-hdpi/doom_spinner_selected.9.png -text
-prboom4android/res/drawable-hdpi/doom_unchecked.png -text
-prboom4android/res/drawable-hdpi/doom_unchecked_disabled.png -text
-prboom4android/res/drawable-hdpi/dpadindicator_center.png -text
-prboom4android/res/drawable-hdpi/dpadindicator_down.png -text
-prboom4android/res/drawable-hdpi/dpadindicator_downleft.png -text
-prboom4android/res/drawable-hdpi/dpadindicator_downright.png -text
-prboom4android/res/drawable-hdpi/dpadindicator_left.png -text
-prboom4android/res/drawable-hdpi/dpadindicator_off.png -text
-prboom4android/res/drawable-hdpi/dpadindicator_right.png -text
-prboom4android/res/drawable-hdpi/dpadindicator_up.png -text
-prboom4android/res/drawable-hdpi/dpadindicator_upleft.png -text
-prboom4android/res/drawable-hdpi/dpadindicator_upright.png -text
-prboom4android/res/drawable-hdpi/icon.png -text
-prboom4android/res/drawable-hdpi/jump.png -text
-prboom4android/res/drawable-hdpi/map.png -text
-prboom4android/res/drawable-hdpi/no.png -text
-prboom4android/res/drawable-hdpi/open.png -text
-prboom4android/res/drawable-hdpi/vstick.png -text
-prboom4android/res/drawable-hdpi/vstick_lr.png -text
-prboom4android/res/drawable-hdpi/weapon_1.png -text
-prboom4android/res/drawable-hdpi/weapon_2.png -text
-prboom4android/res/drawable-hdpi/weapon_3.png -text
-prboom4android/res/drawable-hdpi/weapon_4.png -text
-prboom4android/res/drawable-hdpi/weapon_5.png -text
-prboom4android/res/drawable-hdpi/weapon_6.png -text
-prboom4android/res/drawable-hdpi/weapon_7.png -text
-prboom4android/res/drawable-hdpi/weapon_8.png -text
-prboom4android/res/drawable-hdpi/weapon_9.png -text
-prboom4android/res/drawable-hdpi/yes.png -text
-prboom4android/res/drawable-ldpi/icon.png -text
-prboom4android/res/drawable-mdpi/icon.png -text
-prboom4android/res/layout/download.xml -text svneol=unset#text/plain
-prboom4android/res/layout/main_screen.xml -text svneol=unset#text/plain
-prboom4android/res/layout/options.xml -text svneol=unset#text/plain
-prboom4android/res/raw/d1intro.ogg -text
-prboom4android/res/values/arrays.xml -text svneol=unset#text/plain
-prboom4android/res/values/strings.xml -text svneol=unset#text/plain
-prboom4android/res/values/styles.xml -text svneol=unset#text/plain
-prboom4android/res/values/themes.xml -text svneol=unset#text/plain
 prboom4android/screenshots/doomII_in_game.png -text
 prboom4android/screenshots/doomII_in_game2.png -text
 prboom4android/screenshots/doomII_in_game3.png -text
@@ -765,3 +714,54 @@ prboom4android/src/doom/util/DoomTools.java -text svneol=unset#text/plain
 prboom4android/src/doom/util/GameFileDownloader.java -text svneol=unset#text/plain
 prboom4android/src/doom/util/Natives.java -text svneol=unset#text/plain
 prboom4android/src/doom/util/WebDownload.java -text svneol=unset#text/plain
+res/drawable-hdpi/custom_button.xml -text svneol=unset#text/plain
+res/drawable-hdpi/custom_checkbox.xml -text svneol=unset#text/plain
+res/drawable-hdpi/custom_spinner.xml -text svneol=unset#text/plain
+res/drawable-hdpi/doom.jpg -text
+res/drawable-hdpi/doom_button.9.png -text
+res/drawable-hdpi/doom_button_disabled.9.png -text
+res/drawable-hdpi/doom_button_selected.9.png -text
+res/drawable-hdpi/doom_checked.png -text
+res/drawable-hdpi/doom_checked_disabled.png -text
+res/drawable-hdpi/doom_spinner.9.png -text
+res/drawable-hdpi/doom_spinner_disabled.9.png -text
+res/drawable-hdpi/doom_spinner_selected.9.png -text
+res/drawable-hdpi/doom_unchecked.png -text
+res/drawable-hdpi/doom_unchecked_disabled.png -text
+res/drawable-hdpi/dpadindicator_center.png -text
+res/drawable-hdpi/dpadindicator_down.png -text
+res/drawable-hdpi/dpadindicator_downleft.png -text
+res/drawable-hdpi/dpadindicator_downright.png -text
+res/drawable-hdpi/dpadindicator_left.png -text
+res/drawable-hdpi/dpadindicator_off.png -text
+res/drawable-hdpi/dpadindicator_right.png -text
+res/drawable-hdpi/dpadindicator_up.png -text
+res/drawable-hdpi/dpadindicator_upleft.png -text
+res/drawable-hdpi/dpadindicator_upright.png -text
+res/drawable-hdpi/icon.png -text
+res/drawable-hdpi/jump.png -text
+res/drawable-hdpi/map.png -text
+res/drawable-hdpi/no.png -text
+res/drawable-hdpi/open.png -text
+res/drawable-hdpi/vstick.png -text
+res/drawable-hdpi/vstick_lr.png -text
+res/drawable-hdpi/weapon_1.png -text
+res/drawable-hdpi/weapon_2.png -text
+res/drawable-hdpi/weapon_3.png -text
+res/drawable-hdpi/weapon_4.png -text
+res/drawable-hdpi/weapon_5.png -text
+res/drawable-hdpi/weapon_6.png -text
+res/drawable-hdpi/weapon_7.png -text
+res/drawable-hdpi/weapon_8.png -text
+res/drawable-hdpi/weapon_9.png -text
+res/drawable-hdpi/yes.png -text
+res/drawable-ldpi/icon.png -text
+res/drawable-mdpi/icon.png -text
+res/layout/download.xml -text svneol=unset#text/plain
+res/layout/main_screen.xml -text svneol=unset#text/plain
+res/layout/options.xml -text svneol=unset#text/plain
+res/raw/d1intro.ogg -text
+res/values/arrays.xml -text svneol=unset#text/plain
+res/values/strings.xml -text svneol=unset#text/plain
+res/values/styles.xml -text svneol=unset#text/plain
+res/values/themes.xml -text svneol=unset#text/plain
