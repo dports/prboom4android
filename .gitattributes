@@ -3,14 +3,14 @@
 /.project -text
 /AndroidManifest.xml -text svneol=unset#text/plain
 /Application.mk -text
+assets/fonts/DooM.ttf -text
+assets/prboom.zip -text
 /changelog.txt -text svneol=unset#text/plain
+/default.properties -text svneol=unset#text/plain
 /keys -text
 prboom4android/.classpath -text svneol=unset#text/plain
 prboom4android/.cproject -text svneol=unset#text/plain
 prboom4android/.project -text svneol=unset#text/plain
-prboom4android/assets/fonts/DooM.ttf -text
-prboom4android/assets/prboom.zip -text
-prboom4android/default.properties -text svneol=unset#text/plain
 prboom4android/jni/Android.mk -text
 prboom4android/jni/SDL/Android.mk -text
 prboom4android/jni/SDL/README -text
