@@ -2,3 +2,4 @@
 jni/sdl_net
 libs/armeabi/libSDL.so
 libs/armeabi/libSDL_net.so
+/obj

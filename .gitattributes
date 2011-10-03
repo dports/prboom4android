@@ -738,6 +738,7 @@ res/drawable-mdpi/icon.png -text
 res/layout/download.xml -text svneol=unset#text/plain
 res/layout/main_screen.xml -text svneol=unset#text/plain
 res/layout/options.xml -text svneol=unset#text/plain
+res/layout/toast_layout.xml -text svneol=unset#text/plain
 res/raw/d1intro.ogg -text
 res/values/arrays.xml -text svneol=unset#text/plain
 res/values/strings.xml -text svneol=unset#text/plain
@@ -754,6 +755,7 @@ screenshots/prboom_downloading_sounds.png -text
 screenshots/prboom_downloading_wad.png -text
 screenshots/prboom_main_screen.png -text
 screenshots/prboom_wad_selection.png -text
+src/android/game/prboom/HUDToast.java -text svneol=unset#text/plain
 src/android/game/prboom/PrBoomActivity.java -text svneol=unset#text/plain
 src/android/game/prboom/VirtualDPad.java -text svneol=unset#text/plain
 src/doom/audio/AudioClip.java -text svneol=unset#text/plain
