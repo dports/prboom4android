@@ -632,6 +632,8 @@ jni/prboom/p_tick.c -text
 jni/prboom/p_tick.h -text
 jni/prboom/p_user.c -text
 jni/prboom/p_user.h -text
+jni/prboom/pcm2wav.c -text svneol=unset#text/plain
+jni/prboom/pcm2wav.h -text svneol=unset#text/plain
 jni/prboom/protocol.h -text
 jni/prboom/r_bsp.c -text
 jni/prboom/r_bsp.h -text
