@@ -6,6 +6,50 @@
 /Application.mk -text
 assets/fonts/DooM.ttf -text
 assets/prboom.zip -text
+bin/PrBoom4Android_1.3.0.apk -text
+bin/classes.dex -text
+bin/prboom4android.apk -text
+bin/res/drawable-hdpi/doom_button.9.png -text
+bin/res/drawable-hdpi/doom_button_disabled.9.png -text
+bin/res/drawable-hdpi/doom_button_selected.9.png -text
+bin/res/drawable-hdpi/doom_checked.png -text
+bin/res/drawable-hdpi/doom_checked_disabled.png -text
+bin/res/drawable-hdpi/doom_spinner.9.png -text
+bin/res/drawable-hdpi/doom_spinner_disabled.9.png -text
+bin/res/drawable-hdpi/doom_spinner_selected.9.png -text
+bin/res/drawable-hdpi/doom_unchecked.png -text
+bin/res/drawable-hdpi/doom_unchecked_disabled.png -text
+bin/res/drawable-hdpi/dpadindicator_center.png -text
+bin/res/drawable-hdpi/dpadindicator_down.png -text
+bin/res/drawable-hdpi/dpadindicator_downleft.png -text
+bin/res/drawable-hdpi/dpadindicator_downright.png -text
+bin/res/drawable-hdpi/dpadindicator_left.png -text
+bin/res/drawable-hdpi/dpadindicator_off.png -text
+bin/res/drawable-hdpi/dpadindicator_right.png -text
+bin/res/drawable-hdpi/dpadindicator_up.png -text
+bin/res/drawable-hdpi/dpadindicator_upleft.png -text
+bin/res/drawable-hdpi/dpadindicator_upright.png -text
+bin/res/drawable-hdpi/fire_button.png -text
+bin/res/drawable-hdpi/icon.png -text
+bin/res/drawable-hdpi/jump.png -text
+bin/res/drawable-hdpi/map.png -text
+bin/res/drawable-hdpi/no.png -text
+bin/res/drawable-hdpi/open.png -text
+bin/res/drawable-hdpi/vstick.png -text
+bin/res/drawable-hdpi/vstick_lr.png -text
+bin/res/drawable-hdpi/weapon_1.png -text
+bin/res/drawable-hdpi/weapon_2.png -text
+bin/res/drawable-hdpi/weapon_3.png -text
+bin/res/drawable-hdpi/weapon_4.png -text
+bin/res/drawable-hdpi/weapon_5.png -text
+bin/res/drawable-hdpi/weapon_6.png -text
+bin/res/drawable-hdpi/weapon_7.png -text
+bin/res/drawable-hdpi/weapon_8.png -text
+bin/res/drawable-hdpi/weapon_9.png -text
+bin/res/drawable-hdpi/yes.png -text
+bin/res/drawable-ldpi/icon.png -text
+bin/res/drawable-mdpi/icon.png -text
+bin/resources.ap_ -text
 /changelog.txt -text svneol=unset#text/plain
 /default.properties -text svneol=unset#text/plain
 jni/Android.mk -text
@@ -694,6 +738,7 @@ jni/prboom/z_zone.h -text
 libs/armeabi/gdb.setup -text
 libs/armeabi/gdbserver -text
 libs/armeabi/libprboom_jni.so -text
+/project.properties -text svneol=unset#text/plain
 res/drawable-hdpi/custom_button.xml -text svneol=unset#text/plain
 res/drawable-hdpi/custom_checkbox.xml -text svneol=unset#text/plain
 res/drawable-hdpi/custom_spinner.xml -text svneol=unset#text/plain
@@ -718,6 +763,7 @@ res/drawable-hdpi/dpadindicator_right.png -text
 res/drawable-hdpi/dpadindicator_up.png -text
 res/drawable-hdpi/dpadindicator_upleft.png -text
 res/drawable-hdpi/dpadindicator_upright.png -text
+res/drawable-hdpi/fire_button.png -text
 res/drawable-hdpi/icon.png -text
 res/drawable-hdpi/jump.png -text
 res/drawable-hdpi/map.png -text
