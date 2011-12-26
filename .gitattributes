@@ -7,6 +7,7 @@
 assets/fonts/DooM.ttf -text
 assets/prboom.zip -text
 bin/PrBoom4Android_1.3.0.apk -text
+bin/PrBoom4Android_1.3.1.apk -text
 bin/classes.dex -text
 bin/prboom4android.apk -text
 bin/res/drawable-hdpi/doom_button.9.png -text
@@ -792,6 +793,7 @@ res/values/arrays.xml -text svneol=unset#text/plain
 res/values/strings.xml -text svneol=unset#text/plain
 res/values/styles.xml -text svneol=unset#text/plain
 res/values/themes.xml -text svneol=unset#text/plain
+res/xml/prboom_preferences.xml -text svneol=unset#text/plain
 screenshots/doomII_in_game.png -text
 screenshots/doomII_in_game2.png -text
 screenshots/doomII_in_game3.png -text
@@ -806,6 +808,8 @@ screenshots/prboom_wad_selection.png -text
 src/android/game/prboom/HUDToast.java -text svneol=unset#text/plain
 src/android/game/prboom/PrBoomActivity.java -text svneol=unset#text/plain
 src/android/game/prboom/VirtualDPad.java -text svneol=unset#text/plain
+src/com/android/scheffsblend/orientation/OrientationListener.java -text svneol=unset#text/plain
+src/com/android/scheffsblend/orientation/OrientationManager.java -text svneol=unset#text/plain
 src/doom/audio/AudioClip.java -text svneol=unset#text/plain
 src/doom/audio/AudioManager.java -text svneol=unset#text/plain
 src/doom/util/DialogTool.java -text svneol=unset#text/plain
